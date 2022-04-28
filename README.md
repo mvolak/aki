@@ -1,0 +1,2 @@
+# aki
+dog's diary
